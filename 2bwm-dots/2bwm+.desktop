@@ -1,0 +1,6 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=2BWM+apps
+Comment=window manager
+Exec=/usr/local/bin/start2bwm
+Type=Application

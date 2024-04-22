@@ -1,0 +1,7 @@
+#!/bin/sh
+
+$HOME/.fehbg &
+sxhkd &
+#conky &
+$HOME/bar.sh &
+exec 2bwm
